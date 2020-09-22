@@ -1,11 +1,14 @@
-# Hi, I'm Luiz! :D
+# Luiz Gonçalves :smiley:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lumagojr)](https://github.com/lumagojr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/luizgoncalves/pt-br)](https://br.linkedin.com/in/luizgoncalves/pt-br)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCiKpLDge3Yb9BVlnG8EMd5A)](https://www.youtube.com/channel/UCiKpLDge3Yb9BVlnG8EMd5A)
 
 ### About me
-I'm a {backend, frontend and mobile} developer.
+Estudante de **Gestão da Tecnologia da Informação** na PUC-PR, cursando segundo período.
+
+- :office: Atualmente trabalhando com ciências.
+- :rocket: Atualmente estudando python, java e SQL.
 
 <!--
 **lumagojr/lumagojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,7 @@
 Estudante de **Gestão da Tecnologia da Informação** na PUC-PR, cursando segundo período. Fanático por série e filme de ficção, e entusiasta por programação.
 
 - :office: Trabalho com ciências.
-- :rocket: Estudando python, java e SQL.
+- :rocket: Estudando no momento python, java e SQL.
 
 <!--
 **lumagojr/lumagojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,11 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/luizgoncalves/pt-br)](https://br.linkedin.com/in/luizgoncalves/pt-br)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCiKpLDge3Yb9BVlnG8EMd5A)](https://www.youtube.com/channel/UCiKpLDge3Yb9BVlnG8EMd5A)
 
-### About me
-Estudante de **Gestão da Tecnologia da Informação** na PUC-PR, cursando segundo período.
+### Sobre
+Estudante de **Gestão da Tecnologia da Informação** na PUC-PR, cursando segundo período. Fanático por série e filme de ficção, e entusiasta por programação.
 
-- :office: Atualmente trabalhando com ciências.
-- :rocket: Atualmente estudando python, java e SQL.
+- :office: Trabalho com ciências.
+- :rocket: Estudando python, java e SQL.
 
 <!--
 **lumagojr/lumagojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
